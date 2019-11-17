@@ -1,3 +1,3 @@
-# DWG Document Management System (DMS)
+# DWG.SimpleDMS
 
-A simple document management system.
+A simple document management system (DMS).
