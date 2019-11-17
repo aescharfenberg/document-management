@@ -1,3 +1,3 @@
-# Cake DMS
+# DWG Document Management System (DMS)
 
-Document management that's a piece of cake!
+A simple document management system.
